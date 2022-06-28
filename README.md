@@ -7,7 +7,7 @@
 
 Welcome to my Github page! My name is Victor Kensy and I am currently my Computer Science degree at the Regional University of Northwestern Rio Grande do Sul (UNIJUÍ).  
 
-<img align="right" alt="img" src="" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/Kensyy/kensy/blob/main/cover.gif" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
