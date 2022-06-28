@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victorgdskensy/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:victorkensy@gmail.com)
 
-Welcome to my Github page! My name is Victor Kensy and I am currently my Computer Science degree at the Regional University of Northwestern Rio Grande do Sul (UNIJUÍ).  
+Welcome to my Github page! My name is Victor Kensy and I am currently working on my Computer Science degree at the Regional University of Northwestern Rio Grande do Sul (UNIJUÍ).  
 
 <img align="right" alt="img" src="https://github.com/Kensyy/kensy/blob/main/cover.gif" width="50%" height="auto" />
 
