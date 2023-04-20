@@ -5,22 +5,17 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victorgdskensy/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:victorkensy@gmail.com)
 
-Welcome to my Github page! My name is Victor Kensy and I am currently working on my Computer Science degree at the Regional University of Northwestern Rio Grande do Sul (UNIJUÍ).
+I'm currently working on my Computer Science degree at the Regional University of Northwestern Rio Grande do Sul (UNIJUÍ).
 
-#### 🌱 Things I am currently working on: 
+#### :muscle: Current Projects & Goals: 
 - Finish my Computer Science Degree.
-
-#### :muscle: Things I want to start doing:
-- Start taking a Game Development Course.
 - Amplify my CV apart from the knowledge I get from the University.
-- Start working on personal projects.
+- Start studying UI/UX.
 
-#### :computer: Programming languages and tools: 
+#### :computer: Programming Languages and Tools: 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Kensyy&show_icons=true&hide_border=true" />
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img width="8%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+[![My Skills](https://skillicons.dev/icons?i=cs,html,css,py,java,nodejs,js&perline=3)](https://github.com/Kensyy)
 <br />
 </p>
